@@ -48,7 +48,7 @@ Bachelor's degree, Banking
 
 
 ### Code Example
-```
+```js
 let itShow = (str) => {
   return `Some ${str} to you my friend :) `;
 }
