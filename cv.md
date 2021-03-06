@@ -39,13 +39,16 @@ Responsibilities:
 - Participation in the administration of the biggest automotive forum in Ukraine
 - Data analysis and SEO, context adverting
 
-## Education :books:
+## Education :mortar_board: 
 **National Aviation University**  
 Master's degree, Project Management
 
 **Kyiv National Economics University**  
 Bachelor's degree, Banking
 
+## Courses :books:
+- Frond-end Developer, RS School, February 2021 - Present
+- Python Programming, Stepik, 2020
 
 ### Code Example
 ```js
